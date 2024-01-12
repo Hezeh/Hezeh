@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Backend Development with Python
+- 🔭 I’m currently working with Python for personal projects
 
